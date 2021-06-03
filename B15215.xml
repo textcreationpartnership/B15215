@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir: The summe of what I have heretofore written or spoken to you, concerning the advancement of the mathematickes, is this: as long as men want will, wit, meanes or leisure to atte[nd] those studies, it is no marvaile if they make no great progresse in them. To remedy which, I conceive these meanes not to be amisse.</title>
+            <author>Pell, John, 1611-1685.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15215</idno><idno type="EEBO-CITATION">99893060</idno>
+  <idno type="VID">204042</idno>
+  <idno type="EEBO-PROQUEST">2240916284</idno>
+  
+            <idno type="STC">STC 19564.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide 528.n.20.[5*]</idno>
+            <idno type="STC">ESTC S125741</idno>
+            <idno type="PROQUEST">ocm99893060</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893060e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204042)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E9:1[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir: The summe of what I have heretofore written or spoken to you, concerning the advancement of the mathematickes, is this: as long as men want will, wit, meanes or leisure to atte[nd] those studies, it is no marvaile if they make no great progresse in them. To remedy which, I conceive these meanes not to be amisse.</title>
+                  <author>Pell, John, 1611-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1638?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first three lines of text.</note>
+                  <note>Attributed to John Pell by STC.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Imperfect: stained, creased, and tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mathematics --  Early works to 1900.</term>
+               <term type="topical_term">Libraries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:204042:1"/>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>THe summe of what I have heretofore written or spoken to you, concerning <hi>the advancement of the Mathematickes,</hi> is this: As long as men want <hi>will, wit, meanes</hi> or <hi>leisure</hi> to atter<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> those studies, it is no marvaile if they make no great progresse in them. To remedy which, I conceive <hi>these meanes</hi> not to be amisse.</p>
+            <p n="1">1. To write a <hi>Consiliarius Mathematicus,</hi> (so I call it) answering to these 3. questions:
+<list>
+                  <item>Q. 1. What <hi>fruit or profit</hi> ariseth from the study of <hi>Mathematics?</hi>
+                  </item>
+                  <item>Q. 2. What <hi>helpes</hi> are there for the attaining this profitable knowledge?</item>
+                  <item>Q. 3. What <hi>order</hi> is to be observed in using these helpes?</item>
+               </list>
+            </p>
+            <p>To this purpose it should containe
+<list>
+                  <item>1. A plaine and popular <hi>discourse</hi> of <hi>the extent</hi> of the Mathematics, with <hi>the profit</hi> that redounds, first to the <hi>Student</hi> him<g ref="char:EOLhyphen"/>selfe, and then to the <hi>Country</hi> wherein there are many such grounded Artists.</item>
+                  <item>2. A <hi>Catalog</hi> of Mathematicians and their workes in this order:
+<list>
+                        <item>1. A Synopsis of all the severall <hi>kindes</hi> of Mathematicall writings, either <hi>extant</hi> in print, or <hi>accessible</hi> Manu<g ref="char:EOLhyphen"/>scripts in public Libraries, with severall numbers set to every kinde.</item>
+                        <item>2. A Chronicall <hi>Catalog</hi> of all <hi>Mathematicians names</hi> that ever were of note, according to the order of the yeares <hi>when they lived,</hi> with the yeare when any of their workes were <hi>first printed.</hi>
+                        </item>
+                        <item>3. A <hi>Catalog</hi> of the <hi>writings themselves,</hi> in the order of yeares in which they were <hi>printed</hi> in any language: And this I would contrive thus: First, the yeere of our <hi>Lord,</hi> and then the names of all the Mathematicall bookes printed that yeare in any country or language, after the usuall manner of Catalogs; but
+<list>
+                              <item>1. <hi>adding</hi> the volume, that is, not onely what fold [4<seg rend="sup">o</seg>. 8<seg rend="sup">o</seg>. &amp;c.] but also the number of leaves, that we may estimate the bulke of the booke.</item>
+                              <item>2. <hi>praefixing</hi> before the title, the yeare to which you must looke backe to know either when it was written, or when it was last before printed, in that or any other language.</item>
+                              <item>3. <hi>setting</hi> in the margent, after the title,
+<list>
+                                    <item>1. the yeare wherein it was the <hi>next time</hi> printed:</item>
+                                    <item>2. the <hi>number of reference</hi> to the <hi>Synopsis</hi> in the first page; By which numbers one may presently runne over all the bookes of one sort, of this or that particular subject.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>3. A <hi>Counsell</hi> directing a student to the <hi>best</hi> bookes in every kinde; In what <hi>order,</hi> and <hi>how</hi> to reade them, What to observe, what to beware of in some Mathematicasters, how to <hi>proceed</hi> and keepe all.</item>
+                  <item>4. A <hi>Paraenesis, First,</hi> To <hi>all those</hi> who have <hi>meanes</hi> and <hi>leisure,</hi> and <hi>a wit</hi> not unapt for these studies, to <hi>set</hi> upon them in re<g ref="char:EOLhyphen"/>gard 1. of their <hi>profitablenesse</hi> to the student, and to mankinde, and 2. of that more refined <hi>pleasure</hi> of hunting out hidden truths, wrastling with difficult Problemes, and getting the victory; and so much the rather, because 3. of the great <hi>faci<g ref="char:EOLhyphen"/>lity</hi> that is now in that study, by reason of the many helpes to spare much <hi>labour, time</hi> and <hi>cost,</hi> which our forefathers were forced to spend. <hi>Secondly,</hi> To all those who have <hi>understanding</hi> to estimate the worth of these studies, and <hi>wealth</hi> where<g ref="char:EOLhyphen"/>with to purchase to themselves lasting honour by the wise dispensing of it, to take more notice of this sort of students, and to encourage them, setting apart the choicest of them, to perfect the inventions, to which their <hi>Genius</hi> leads them: Espe<g ref="char:EOLhyphen"/>cially, To <hi>all Princes</hi> and <hi>Estates,</hi> whom it concernes to take a course 1. that their dominions may be better furnished with this sort of students, 2. that the way may be made lesse laborious and costly, 3. that <hi>Mathematica ingenia</hi> may be discovered and assisted.</item>
+               </list>
+            </p>
+            <p>To which end it would be good</p>
+            <p n="2">2. To erect a <hi>Public Library,</hi> containing all those bookes, and one instrument of every sort that hath beene invented, with efficient revenue, 1. to buy one copy of all those that shall be printed yearly in other countries.</p>
+            <p>and 2. to maintaine a Library keeper of great judgement, to whom it may belong †
+<list>
+                  <item>1. to peruse all books of such subjects, to be printed within that country, and 1. suppresse whatsoever is not according to Art, that Learners be not abused, and 2. admonish the writers, if they bring nothing but stale stuffe.</item>
+                  <item>2. <gap reason="illegible" resp="#pdcc" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> credit to approve excellent inventions, and unpartially to commend the inventors to the rewarders.</item>
+                  <item>3. to <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eceive, record and place one printed copy of every booke so perused, sent into the Library, well bound at the Au<g ref="char:EOLhyphen"/>thors or Book-sellers charge.</item>
+                  <item>4. to resolve any student that enquires about any Probleme▪ <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hether it have beene done already or no, fearing lest hee should <hi>actum agere,</hi> and therefore perhaps suppressing <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#pdcc" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ention which he hath light upon, but doubts it is old and to be found in some of the bookes of that Library.</item>
+                  <item>5. to receive, &amp;c. all such Manuscripts as shall be brought thit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er by way of gift, Legacy, or the like.</item>
+                  <item>6. to maintaine correspondence with such as himselfe in other countries, to know what is printed there.</item>
+                  <item>7. to take notice of all his countrimen that are fit to be teachers, &amp;c.</item>
+                  <item>8. to keepe a Catalog of all such workmen as are able and fit to be imployed in making Mathematicall instruments and representations, working upon wood, magnets, metalls, glasse, &amp;c.</item>
+                  <item>9. to give testimoniall, after examination, to all sorts of practisers, as Pilots, Masters, Landmeters, Accomptants, &amp;c. of their s<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>culative ability and practicall dexterity, that those that have occasion to use such men, be not abused by unable undertakers, to their exceeding great damage.
+<list>
+                        <item>By the Catalog, men might be informed, in that multitude of bookes, with which the world is now pestered, what the <hi>names</hi> are of those bookes that tend to this study onely.</item>
+                        <item>In the Library, they might finde the <hi>bookes themselves,</hi> reade them, and if they liked them, know whither to send to buy them, Besides, any, whether forreiners on others, might have recourse thither, and learne what helps that country would afford them in these studies.</item>
+                     </list>
+                  </item>
+                  <item>And this is the best course that I can thinke on for the making use of <hi>such helpes as we have already.</hi> If men desire <hi>better</hi> helpes, let them employ fit Artists</item>
+               </list>
+            </p>
+            <p n="3">3. To write and publish these <hi>three new Treatises:</hi> †
+<list>
+                  <item>1. <hi>Pandectae Mathematicae,</hi> Comprehending as cleerly, orderly, thriftily, and ingenuously as may be, whatsoever may be gathered out of all those Mathematicall bookes and inventions that were before us, or that may be inferred as Conse<g ref="char:EOLhyphen"/>ctaries thereon; <hi>citing,</hi> at the end of every period or proposition, the ancientest Author in which it is found, and <hi>bran<g ref="char:EOLhyphen"/>ding</hi> all later writers if they be taken stealing, or borrowing without acknowled<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ent, or [which is worse] expresly arrogating to themselves any other mans inventions. This would bring that <gap reason="illegible" resp="#pdcc" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>Library</hi> into farre lesse roome, to the saving of more <hi>labour, time</hi> and <hi>cost,</hi> to all after-students, than men can yet well Imagine. But because this also would be too great and cumber some to carry about us, Let there be composed</item>
+                  <item>2. <hi>Comes Mathematicus,</hi> Comprehending in a pocket-booke, [and therefore as briefly as may be] the usefullest Tables and the Precepts for their use, in solving all Problemes, whether purely-Mathematicall, or applied to such practices as mens various occasions may require.</item>
+                  <item>And lastly, that in this kinde of Learning also, we be no longer tyed to bookes, Let there be composed</item>
+                  <item>3. <hi>Mathematicus</hi>
+                     <gap reason="foreign" resp="#oxf">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or An instruction, shewing how any Mathematician that will take the paines, may prepare himselfe, so, as that he may, though he be utterly destitute of bookes or instruments, resolve any Marhematicall Pro<g ref="char:EOLhyphen"/>bleme as exactly as if he had a complete <hi>Library</hi> by him.</item>
+               </list>
+            </p>
+            <pb facs="tcp:204042:2"/>
+            <p>And this is the <hi>Idéa,</hi> which I have long framed to my selfe, according to my fashion, with whom this <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted truth, that the surest way to come to all possible excellency <hi>in any thing,</hi> is to propose to our selves the <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we can imagine, then to seeke the meanes tending thereto, as rationally as may be, and to prosecute it with <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gence; yet, if the <hi>Idéa</hi> prove too high for us, to rest our selves content with <hi>approximation.</hi>
+            </p>
+            <p>As for this present <hi>Idéa,</hi> I am so farre from counting it <hi>meerely-impossible,</hi> that I see not why it might not be performe<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one man, without any assistants, provided that he were neither <hi>distracted</hi> with cares for his maintenance, nor <hi>diverted</hi> by o<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> employments.</p>
+            <p>The excellency of this worke, makes me wish mine owne nation the honour of <hi>first</hi> undertaking and perfecting this desig<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> And I conceive I have some reason to hope that it will be so. For, though I know few or none that are both able and willing promote designes of this nature, yet can I not therefore be persuaded that this Kingdome is so destitute of learned Nob<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Gentry, that there can be found none to countenance and advance <hi>this</hi> part of Learning, even in <hi>this</hi> way, if they co<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> see it possible and likely to be effected.</p>
+            <p>As for the <hi>Library</hi> and <hi>Catalog,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1.2"/> there can be no doubt but they may easily be had, if mony be not wanting. Nor is it unlik<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that divers of this nation (if they be set apart for it) are able to compose the other 3. <hi>new Treatises;</hi> For though I know <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> such, yet I persuade my selfe there may be found amongst us men able to encounter all the difficulties, and to endure all the <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> bour, that they must needs meet with in the raising of so great a <hi>Fabricke.</hi> And I the rather beleeve that there are many su<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> because for mine <hi>owne part,</hi> notwithstanding the want of Counsell and helpes in that study, and the innumerable diversions a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> distractions that I have had, I am neverthelesse come to such a confidence of my understanding the depth of that study, tha<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were I to pen those <hi>Pandects,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> I should lay heavier lawes upon my selfe, than I have already mentioned; namely, <hi>First</hi> to l<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> downe such an exact <hi>Method</hi> or description of the processe of Mans reason in inventions, that <hi>afterward</hi> it should be imput<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meerly to my negligence and disobedience to my owne lawes, [and not to their insufficiency] if, from my first grounds, see<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or principles, I did not, in an orderly way, according to that praescribed Method, deduce, not onely all that ever is to be fou<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in our Antecessors writings, and whatsoever they may seeme to have thought on, but also all the Mathematicall invention Theoremes, Problemes and Precepts, that it is possible for the working wits of our successors to light upon, and that in one ce<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>taine, unchanged order, from the first seeds of Mathematics, to their highest and noblest applications, as well as to the mean<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and most ordinary. Not setting them down at randon as they come in my head, as those before us have done, so that they seeme <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have light upon their Problemes and the solutions of them by chance, not to have found them by one perpetuall, constant, in<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>riable processe of Art. Yet such an Art may men invent, if they accustome themselves, as I have long done, to consider, not one<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the <hi>usefulnesse</hi> of mens workes, and the <hi>meaning</hi> and <hi>truth</hi> of their writings, but also <hi>how it came to passe</hi> that they fell upon su<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thoughts, and that they proposed to themselves such ends, or found out such meanes for them.</p>
+            <p>Were these <hi>Pandects</hi> thus made and finished, I suppose it is manifest, that by their orderly, rationall and uniforme co<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pleatnesse, above all that hath beene hitherto written, they would spare after-students much <hi>labour and time</hi> that is now spe<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in <hi>seeking</hi> out of bookes, and <hi>disorderly reading</hi> them, and <hi>struggling</hi> with their cloudy expressions, unapt representations, d<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ferent Methods, confusions, tautologies, impertinencies, falshoods by paralogismes and pseudographemes, uncertainties b<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cause of insufficient demonstrations, &amp;c. besides much <hi>cost</hi> also, now throwne away upon the multitude of bookes, the gre<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ter part whereof they had perhaps beene better never to have seene.</p>
+            <p>And it may be some would like the Method of that worke so well, as to extend it farther, and apply it to other studies; <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>speculation</hi> imitating this my warinesse, that <hi>no falshood be admitted, and no truth omitted;</hi> and <hi>for practice</hi> enuring themselve<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Any subject</hi> being propounded, to determine the number of all the Problemes that can be conceived concerning it, and <hi>A<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Probleme</hi> being propounded, demonstratively to shew <hi>either all the meanes</hi> of its solution, <hi>or the impossibility</hi> of it: and if <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> then whether it be <hi>not yet,</hi> or <hi>not at all</hi> possible.</p>
+            <p>Men would easily see how to contract <hi>these Pandects</hi> into <hi>a pocket-booke</hi> for their ordinary use.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> But so to lay them up in th<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> heads, as to need <hi>no booke at all</hi> [according to that <hi>desideratum</hi> of mine, to have a <hi>Mathematicus</hi>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] will perhaps see<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> utterly impossible to most:
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> No man, that ever I heard of, having proposed such a scope to himselfe before. But perha<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they will conceive it more possible, if it please them to suspend their judgements, till they have considered <hi>what meanes</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be used to fortifie the imagination, to prompt the memory, to regulate our reason, and <hi>what effects</hi> may be produced by <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> uniting of these meanes, and the constant exercising of them.</p>
+            <p>For mine owne part, the consideration of the <hi>incomparable excellency, unstained pleasure, unvaluable profitablenesse, and <gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> doubted possibility</hi> of this whole designe, hath prevailed so farre with me, that notwithstanding all the discouragements tha<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have met withall, I have done more towards it than bare <hi>Idéa,.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
